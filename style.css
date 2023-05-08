@@ -19,3 +19,7 @@ h2 {
   height: 320px;
   margin: 10px auto;
 }
+.topo {
+background-image: url("topo.jpg");
+background-size: cover;
+}
